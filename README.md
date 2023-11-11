@@ -1,4 +1,4 @@
-# Vax Reg Website & Database Documentation
+# Vax-Reg Website & Database Documentation
 
 # HOME
 ![home](https://github.com/abxde9999/Vax-Reg-Database/assets/103562421/de5bc373-6c31-4548-8dfc-ff322fc94044)
