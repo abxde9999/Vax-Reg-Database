@@ -2,7 +2,7 @@
 Vax-Reg is a database-driven website that aims to address people’s difficulties in registration for Covid-
 19 vaccines.
 
-**HOME**
+**->HOME**
 ![home](https://github.com/abxde9999/Vax-Reg-Database/assets/103562421/de5bc373-6c31-4548-8dfc-ff322fc94044)
 
 **REGISTER**
